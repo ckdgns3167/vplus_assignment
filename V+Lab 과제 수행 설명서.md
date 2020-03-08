@@ -163,7 +163,9 @@ const jsonData = [
 
 **결과**
 
-1. **Github pages 배포**
+**Github pages 배포**
 
-   
+   URL : https://ckdgns3167.github.io/vplus_assignment/
+
+ ![K-003](https://user-images.githubusercontent.com/52457180/76155741-b3716180-6133-11ea-8647-9418ef126f84.png)
 

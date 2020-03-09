@@ -58,7 +58,7 @@
 3. **하드 코딩된 파일 트리 구조**
 
    ```javascript
-const jsonData = [
+      const jsonData = [
                {
                    "text": "example",
                    "type": "project",

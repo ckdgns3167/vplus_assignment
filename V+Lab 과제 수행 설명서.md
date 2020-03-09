@@ -17,7 +17,7 @@
 1. **npm 설치**
 
 2. **npx 설치**
-- npm i npx -g
+   - npm i npx -g
   
 3. **react 프로젝트 생성** 
 
@@ -28,14 +28,14 @@
    - npm install react-simple-jstree
 
 5. **jsTree 모듈을 사용하기 위해 Tree.js에 import** 
-- **import** TreeView **from** 'react-simple-jstree';
+   - **import** TreeView **from** 'react-simple-jstree';
   
 6. **jquery 모듈 설치**
 
    - npm install jquery
 
 7. **jquery 모듈을 사용하기 위해 Tree.js에 import**
-- import * as $ from 'jquery'
+   - import * as $ from 'jquery'
   
 8. **icon 이미지 다운로드하고 저장**
 
